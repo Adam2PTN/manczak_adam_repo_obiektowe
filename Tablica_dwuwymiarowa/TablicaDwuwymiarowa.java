@@ -16,7 +16,6 @@ class TablicaDwuwymiarowa{
 		}
 		System.out.println("Koniec pętli ze zmienną i");
 	}
-}
 	private static void przupomnienieTablicJenowymiarowych{
 		int[] tab = new int[5];
 		tab[0] = 40;
@@ -24,3 +23,4 @@ class TablicaDwuwymiarowa{
 			System.out.println(tab[i]);
 		}
 	}
+}
