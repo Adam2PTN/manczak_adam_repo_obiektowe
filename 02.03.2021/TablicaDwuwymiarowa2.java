@@ -4,7 +4,7 @@ class TablicaDwuwymiarowa2{
 	}
 	
 	private static void tablica2x2(){
-		
+	//funkcje
 	}
 	
 	
