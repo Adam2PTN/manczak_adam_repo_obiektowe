@@ -9,6 +9,6 @@ class Logowanie{
 	
 	@Override
 	public String toString(){
-		return "Login: "+login+"\nPassword: "+haslo;
+		return "Login: "+login+"\nPassword: "+ haslo;
 	}
 }

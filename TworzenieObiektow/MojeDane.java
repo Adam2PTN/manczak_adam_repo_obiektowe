@@ -3,6 +3,7 @@ class MojeDane{
 	public String nazwisko = "";
 	public String klasa = "";
 
+
 	public MojeDane(String imie, String nazwisko, String klasa){
 		this.imie = imie;
 		this.nazwisko = nazwisko;
