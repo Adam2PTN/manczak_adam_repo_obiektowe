@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 class PierwszyKonstruktor{
-	public static void ain(String[] args){
+	public static void main(String[] args){
 		MojeBmi mb = new MojeBmi(190,86);
 		double wynik = mb.MojeBmi();
 		System.out.println("BMI = "+wynik);
@@ -39,7 +39,7 @@ class PierwszyKonstruktor{
 				flag = false;
 			} catch (InputMismatchException ex){
 			System.out.print("Wpisuj tylko CYFRY");
-			zakoncz = 0
+			zakoncz = 0;
 			}
 		}
 	}
