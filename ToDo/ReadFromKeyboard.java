@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-class ReadFromKeyboard{
-	
+class ReadFromKeyboard{	
 	public ToDo readOneToDo(){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Podaj tytuł: ");

@@ -26,7 +26,6 @@ class ToDo {
 	public LocalDateTime getAdd_Date(){
 		return add_date;
 	}
-	
 	public String getAuthor(){
 		return author;
 	}

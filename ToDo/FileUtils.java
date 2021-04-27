@@ -37,7 +37,6 @@ class FileUtils{
 			System.out.println("UPS! "+ex.toString());
 		}
 		
-		
 		return list;
 	}
 }
